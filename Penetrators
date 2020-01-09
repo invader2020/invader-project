@@ -1,0 +1,341 @@
+echo "       © ᴘᴇɴᴇᴛʀᴀᴛᴏʀs                  ᴄᴏʀᴘᴏʀᴀᴛɪᴏɴ ©      "
+echo "          ♛ α cσмρℓεтεℓү αυтσмαтε∂ ρяσנεcт ♛         "
+echo "                ♛ Creator : Sarkaar    ♛            "
+echo "                ♛ Support : Xanderdark ♛            "
+echo "           ______             _                 "
+echo "          / _____)           | |                "
+echo "         ( (____  _____  ____| |  _ _____  ____ "
+echo "          \____ \(____ |/ ___| |_/ (____ |/ ___)"
+echo "          _____) / ___ | |   |  _ (/ ___ | |    "
+echo "         (______/\_____|_|   |_| \_\_____|_|  "
+echo " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo " Collecting Device Details.."
+echo " ▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉ 100%"
+echo " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+sleep 2
+echo " "
+uname -a
+sleep 10
+echo " "
+rm -rf /data/data/com.pubg.krmobile/files/tss_tmp/comm.dat 2> /dev/null
+rm -rf /data/data/com.pubg.krmobile/files/tss_tmp/config2.xml.b99a2eec 2> /dev/null
+rm -rf /data/data/com.pubg.krmobile/files/tss_tmp/gp4.ano.dat 2> /dev/null
+rm -rf /data/data/com.pubg.krmobile/files/tss_tmp/mn_cache.dat 2> /dev/null
+rm -rf /data/data/com.pubg.krmobile/files/tss_tmp/mrpcs.data 2> /dev/null
+rm -rf /data/data/com.pubg.krmobile/files/tss_tmp/tpp.s 2> /dev/null
+rm -rf /data/data/com.pubg.krmobile/files/tss_tmp/tersafe.update 2> /dev/null
+rm -rf /data/data/com.pubg.krmobile/files/tss_tmp/tss_base.dat 2> /dev/null
+rm -rf /data/data/com.pubg.krmobile/files/tss_tmp/tss_cef.dat 2> /dev/null
+rm -rf /data/data/com.pubg.krmobile/files/tss_tmp/tss_cfg2.dat 2> /dev/null
+rm -rf /data/data/com.pubg.krmobile/files/tss_tmp/tss_emu_c2.dat 2> /dev/null
+rm -rf /data/data/com.pubg.krmobile/files/tss_tmp/tss_lcp.dat 2> /dev/null
+rm -rf /data/data/com.pubg.krmobile/files/tss_tmp/tss_r_record.dat 2> /dev/null
+rm -rf /data/data/com.pubg.krmobile/files/tss_tmp/tss_shp_tmp.dat 2> /dev/null
+rm -rf /data/data/com.pubg.krmobile/files/tss_tmp/tss.ano.dat 2> /dev/null
+rm -rf /data/data/com.pubg.krmobile/files/tss_tmp/tssmua.zip 2> /dev/null
+mkdir /data/data/com.pubg.krmobile/files/tss_tmp 2> /dev/null
+echo "sᴘᴏᴏғɪɴɢ..."
+echo " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo " ▉▉▉▉▉▉▉▉▉▉ 30%"
+echo " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+cp -R /storage/emulated/0/PENETRATORS-V2/Mod/tss/comm.dat /data/data/com.pubg.krmobile/files/tss_tmp 2> /dev/null
+cp -R /storage/emulated/0/PENETRATORS-V2/Mod/tss/config2.xml.b99a2eec /data/data/com.pubg.krmobile/files/tss_tmp 2> /dev/null
+cp -R /storage/emulated/0/PENETRATORS-V2/Mod/tss/config3.xml /data/data/com.pubg.krmobile/files/tss_tmp 2> /dev/null
+cp -R /storage/emulated/0/PENETRATORS-V2/Mod/tss/gp4.ano.dat /data/data/com.pubg.krmobile/files/tss_tmp 2> /dev/null
+cp -R /storage/emulated/0/PENETRATORS-V2/Mod/tss/mn_cache.dat /data/data/com.pubg.krmobile/files/tss_tmp 2> /dev/null
+cp -R /storage/emulated/0/PENETRATORS-V2/Mod/tss/mrpcs.data /data/data/com.pubg.krmobile/files/tss_tmp 2> /dev/null
+cp -R /storage/emulated/0/PENETRATORS-V2/Mod/tss/tpp.s /data/data/com.pubg.krmobile/files/tss_tmp 2> /dev/null
+cp -R /storage/emulated/0/PENETRATORS-V2/Mod/tss/tersafe.update /data/data/com.pubg.krmobile/files/tss_tmp 2> /dev/null
+cp -R /storage/emulated/0/PENETRATORS-V2/Mod/tss/tss_base.dat /data/data/com.pubg.krmobile/files/tss_tmp 2> /dev/null
+cp -R /storage/emulated/0/PENETRATORS-V2/Mod/tss/tss_cef.dat /data/data/com.pubg.krmobile/files/tss_tmp 2> /dev/null
+cp -R /storage/emulated/0/PENETRATORS-V2/Mod/tss/tss_cfg2.dat /data/data/com.pubg.krmobile/files/tss_tmp 2> /dev/null
+cp -R /storage/emulated/0/PENETRATORS-V2/Mod/tss/tss_emu_c2.dat /data/data/com.pubg.krmobile/files/tss_tmp 2> /dev/null
+cp -R /storage/emulated/0/PENETRATORS-V2/Mod/tss/tss_lcp.dat /data/data/com.pubg.krmobile/files/tss_tmp 2> /dev/null
+cp -R /storage/emulated/0/PENETRATORS-V2/Mod/tss/tss_r_record.dat /data/data/com.pubg.krmobile/files/tss_tmp 2> /dev/null
+cp -R /storage/emulated/0/PENETRATORS-V2/Mod/tss/tss_shp_tmp.dat /data/data/com.pubg.krmobile/files/tss_tmp 2> /dev/null
+cp -R /storage/emulated/0/PENETRATORS-V2/Mod/tss/tss.ano.dat /data/data/com.pubg.krmobile/files/tss_tmp 2> /dev/null
+cp -R /storage/emulated/0/PENETRATORS-V2/Mod/tss/tssmua.zip /data/data/com.pubg.krmobile/files/tss_tmp 2> /dev/null
+chmod -R 600 /data/data/com.pubg.krmobile/files/tss_tmp/comm.dat 2> /dev/null
+chmod -R 600 /data/data/com.pubg.krmobile/files/tss_tmp/config2.xml.b99a2eec 2> /dev/null
+chmod -R 600 /data/data/com.pubg.krmobile/files/tss_tmp/gp4.ano.dat 2> /dev/null
+chmod -R 600 /data/data/com.pubg.krmobile/files/tss_tmp/mn_cache.dat 2> /dev/null
+chmod -R 600 /data/data/com.pubg.krmobile/files/tss_tmp/mrpcs.data 2> /dev/null
+chmod -R 600 /data/data/com.pubg.krmobile/files/tss_tmp/tpp.s 2> /dev/null
+chmod -R 600 /data/data/com.pubg.krmobile/files/tss_tmp/tersafe.update 2> /dev/null
+chmod -R 600 /data/data/com.pubg.krmobile/files/tss_tmp/tss_base.dat 2> /dev/null
+chmod -R 600 /data/data/com.pubg.krmobile/files/tss_tmp/tss_cef.dat 2> /dev/null
+chmod -R 600 /data/data/com.pubg.krmobile/files/tss_tmp/tss_cfg2.dat 2> /dev/null
+chmod -R 600 /data/data/com.pubg.krmobile/files/tss_tmp/tss_emu_c2.dat 2> /dev/null
+chmod -R 600 /data/data/com.pubg.krmobile/files/tss_tmp/tss_lcp.dat 2> /dev/null
+chmod -R 600 /data/data/com.pubg.krmobile/files/tss_tmp/tss_r_record.dat 2> /dev/null
+chmod -R 600 /data/data/com.pubg.krmobile/files/tss_tmp/tss_shp_tmp.dat 2> /dev/null
+chmod -R 600 /data/data/com.pubg.krmobile/files/tss_tmp/tss.ano.dat 2> /dev/null
+chmod -R 600 /data/data/com.pubg.krmobile/files/tss_tmp/tssmua.zip 2> /dev/null
+echo "Done ✓"
+cp /data/data/com.pubg.krmobile/databases/* /storage/emulated/0/PENETRATORS-V2/Backup/databases
+sleep 2
+am start -n com.pubg.krmobile/com.epicgames.ue4.SplashActivity
+sleep 7
+cp /storage/emulated/0/PENETRATORS-V2/Mod/databases/* /data/data/com.pubg.krmobile/databases
+mv /data/data/com.pubg.krmobile/lib/libtersafe.so /storage/emulated/0/PENETRATORS-V2/Backup
+mv /data/data/com.pubg.krmobile/lib/libtprt.so /storage/emulated/0/PENETRATORS-V2/Backup
+mv /data/data/com.pubg.krmobile/lib/libUE4.so /storage/emulated/0/PENETRATORS-V2/Backup
+mv /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.16.0.11466.pak /storage/emulated/0/PENETRATORS-V2/Backup
+cp /storage/emulated/0/PENETRATORS-V2/Mod/libtersafe.so /data/data/com.pubg.krmobile/lib
+cp /storage/emulated/0/PENETRATORS-V2/Mod/libUE4.so /data/data/com.pubg.krmobile/lib
+cp /storage/emulated/0/PENETRATORS-V2/Mod/libtprt.so /data/data/com.pubg.krmobile/lib
+cp /storage/emulated/0/PENETRATORS-V2/Mod/game_patch_0.16.0.11466.pak /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
+echo " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo " ▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉ 100%"
+echo " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "
+ ᴅᴏɴᴇ ✓ 
+"
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "ᴄʜᴀɴɢɪɴɢ ᴘᴇʀᴍɪssɪᴏɴs..."
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+chmod 755 /data/data/com.pubg.krmobile/lib/*
+chmod -R 660 /data/data/com.pubg.krmobile/databases
+chmod -R 600 /data/data/com.pubg.krmobile/cache
+echo "
+ ᴅᴏɴᴇ ✓\n"
+echo " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "             ♛ Payload Injected ✔️"
+echo "             ♛ Fuck The Server ✔️"
+echo " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+sleep 5
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/cache/GCloud 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/cache/GCloud.ini 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer-temp 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/1375135419_117_0.12.5.11041_20190515120925_1255231495_cures.ifs.res 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist 2> /dev/null
+rm -rf /storage/emulated/0/Tencent 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/ca-bundle.pem 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/tbslog 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/login-identifier.txt 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/cacheFile.txt 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/vmpcloudconfig.json 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo/RoleInfo.json 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/ImageDownload 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/Engine 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir 2> /dev/null
+sleep 100
+i=0
+KR='com.pubg.krmobile'
+while true;
+do
+if [ ! $(pidof $KR) ];
+then
+break
+fi
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "ᴄʟᴇᴀɴɪɴɢ ʟᴏɢs..."
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+rm -r /storage/emulated/0/tencent 2> /dev/null
+rm -r /storage/emulated/0/Tencent 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/cache 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/ca-bundle.pem 	   2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/tbslog  	   2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/cacheFile.txt	 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/vmpcloudconfig.json 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/Engine 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo/RoleInfo.json 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/ImageDownload 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora 2> /dev/null
+echo -ne '▉▉▉▉▉▉▉▉ 33%
+'
+sleep 1
+echo -ne '
+'
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/cache 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/app_appcache 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/app_bugly 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/cache 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/code_cache 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/app_crashrecord 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/databases/google_app_measurement_local.db-journal 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/databases/pri_tencent_analysis.db-journal 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/databases/tencent_analysis.db-journal 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/databases/xg_message.db-journal 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/databases/google_app_measurement_local.db 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/databases/pri_tencent_analysis.db 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/databases/__hs__db_issues-journal 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/databases/__hs__db_key_values-journal 2> /dev/null
+echo -ne '▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉ 60%
+'
+sleep 1
+echo -ne '
+'
+rm -r /data/data/com.pubg.krmobile/databases/__hs__db_sessions-journal 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/databases/__hs__db_support_key_values-journal 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/databases/bugly_db_-journal 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/databases/__hs_log_store-journal 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/files/iMSDK 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/files/tbslog 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/files/tss_tmp 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/files/ss_tmp 2> /dev/null
+rm -r /storage/emulated/0/tencent 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/cache 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs/ShadowTrackerExtra.log 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/cache/ 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/tbslog 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/app_lib 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/app_webview_imsdk_inner_webview 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/app_textures 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/tbslog/ 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/tbslog 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo/RoleInfo.json 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Screenshots 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/vmpcloudconfig.json 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora/dns.txt 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/ca-bundle.pem 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/login-identifier.txt 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/cacheFile.txt 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/app_appcache 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/app_bugly 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/app_crashrecord 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/cache 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/app_webview 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/tbslog 2> /dev/null
+rm -r /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/app_tbs 2> /dev/null
+rm -r /data/data/com.pubg.krmobile/code_cache 2> /dev/null
+rm -r /data/data/com.tencent.soter.soterserver 2> /dev/null
+rm -r /storage/emulated/0/.backups 2> /dev/null
+echo -ne '▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉ 100%\r'
+echo -ne '
+'
+date
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "ʀᴇᴘᴏʀᴛs ᴀɴᴅ ᴄᴀᴄʜᴇ ᴄʟᴇᴀʀᴇᴅ ✓"
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+if [ ! $(pidof $KR) ];
+then
+break
+fi
+sleep 30
+done
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "sᴇᴇᴍs ᴘᴜʙɢ ᴄʟᴏsᴇᴅ\n"
+echo "ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ᴅᴀʀᴋ"
+date
+echo "ʀᴇsᴛᴏʀɪɴɢ ᴄʟɪɴᴛ"
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "𒊹 ����🅽��🆃������🅾��🆂 ��"
+echo "     "
+echo "       Flush-engine━=͟͟͞͞⚈͒⚈͒•"
+echo "             ●█〓██▄▄▄▄▄▄●●●SARKAR●●● "
+echo  "       ▄▅██████▅▄▃▂ "
+echo "       ██████████████ "
+echo "       ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲◤ "
+echo "       Starting"
+echo " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo " ▉ 1%"
+echo " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+sleep 2
+mv /storage/emulated/0/PENETRATORS-V2/Backup/databases/* /data/data/com.pubg.krmobile/databases
+mv /storage/emulated/0/PENETRATORS-V2/Backup/libUE4.so /data/data/com.pubg.krmobile/lib
+mv /storage/emulated/0/PENETRATORS-V2/Backup/libtprt.so /data/data/com.pubg.krmobile/lib
+mv /storage/emulated/0/PENETRATORS-V2/Backup/libtersafe.so /data/data/com.pubg.krmobile/lib
+mv /storage/emulated/0/PENETRATORS-V2/Backup/game_patch_0.16.0.11466.pak /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
+sleep 1
+echo " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo " ▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉ 46%"
+echo " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+chmod -R 755 /data/data/com.pubg.krmobile/lib/libtersafe.so
+chmod -R 755 /data/data/com.pubg.krmobile/lib/libtprt.so
+chmod -R 755 /data/data/com.pubg.krmobile/lib/libUE4.so
+chmod -R 771 /data/data/com.pubg.krmobile/databases
+chmod -R 700 /data/data/com.pubg.krmobile/files/tss_tmp 2> /dev/null
+sleep 1
+echo " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo " ▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉ 88%"
+echo " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/cache/GCloud
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/cache/GCloud.ini
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer-temp
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/1375135419_117_0.12.5.11041_20190515120925_1255231495_cures.ifs.res
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist
+rm -rf /storage/emulated/0/Tencent
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/cache
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/ca-bundle.pem
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/tbslog
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/login-identifier.txt
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/cacheFile.txt
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/vmpcloudconfig.json
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo/RoleInfo.json
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/ImageDownload
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/Engine
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag
+rm -rf /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
+sleep 1
+echo " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo " ▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉ 100%"
+echo " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "
+ᴄʟɪɴᴛ ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ɴᴏᴡ ✓\n "
+echo "           ______             _                 "
+echo "          / _____)           | |                "
+echo "         ( (____  _____  ____| |  _ _____  ____ "
+echo "          \____ \(____ |/ ___| |_/ (____ |/ ___)"
+echo "          _____) / ___ | |   |  _ (/ ___ | |    "
+echo "         (______/\_____|_|   |_| \_\_____|_|  "
+echo " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "   © ᴘᴇɴᴇᴛʀᴀᴛᴏʀs                         ᴄᴏʀᴘᴏʀᴀᴛɪᴏɴ ©      "
+echo "      ✰||| keep using || ᴋᴇᴇᴘ sᴜᴘᴘᴏʀᴛɪɴɢ |||✰    "
+echo " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo " ᴘᴇɴᴇᴛʀᴀᴛᴏʀs                  ᴄᴏʀᴘᴏʀᴀᴛɪᴏɴ  "
+echo " p::::ppp:::::::::p         cc:::::::::::::::c"
+echo " p:::::::::::::::::p       c:::::::::::::::::c"
+echo " pp::::::ppppp::::::p     c:::::::cccccc:::::c"
+echo " p:::::p     p:::::p     c::::::c     ccccccc"
+echo " p:::::p     p:::::p     c:::::c             "
+echo " p:::::p     p:::::p     c:::::c             "
+echo " p:::::p    p::::::p     c::::::c     ccccccc"
+echo " p:::::ppppp:::::::p     c:::::::cccccc:::::c"
+echo " p::::::::::::::::p       c:::::::::::::::::c"
+echo " p::::::::::::::pp         cc:::::::::::::::c"
+echo " p::::::pppppppp            cccccccccccccccc"
+echo " p:::::p                                     "
+echo " p:::::p                                     "
+echo " p:::::::p                                    "
+echo " p:::::::p                                    "
+echo " p:::::::p                                    "
+echo " ppppppppp                                    "
+echo "                "
